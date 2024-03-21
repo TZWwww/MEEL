@@ -1,2 +1,1 @@
-# MEEL
-MEEL: Multi-Modal Event Evolution Learning
+# MEEL: Multi-Modal Event Evolution Learning
